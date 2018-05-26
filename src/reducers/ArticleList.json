@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "title": "Short info",
+    "description": "Just a usual 18 y.o boy, born in a great city Kyiv in a greatest family."
+  },
+  {
+    "id": 1,
+    "title": "Where do I study?",
+    "description": "Currently I study at State University of Telecommunication, my speciality is cybersecurity. I have been studying programming all by myself since 15 y.o. My first language to learn was Java, so I was trying to build some trivial application on Android. Then I spent a lot of time with C# and Unity engine and only after this in 17 y.o. age I started Javascript."
+  },
+  {
+    "id": 2,
+    "title": "Tech Stack",
+    "description": "Main: React Native, NodeJS. Side: C#(Unity) and a bit of Java."
+  },
+  {
+    "id": 3,
+    "title": "Soft Skills",
+    "description": "Negotiative, open-minded, Adaptable, Tolerant of change and uncertainty, Willing to learn. "
+  },
+  {
+    "id": 4,
+    "title": "Other Skills",
+    "description": "B2 English certificate and so on."
+  },
+  {
+    "id": 5,
+    "title": "Work experience",
+    "description": "I had only two positions before. Rewriter and Unity-programmer inter. On both positions I worked for two month."
+  },
+  {
+    "id": 6,
+    "title": "A topic",
+    "description": "You know, I have to make this page look bigger, so i guess thats a pretty way of organizing a placeholder"
+  },
+  {
+    "id": 7,
+    "title": "Another topic?",
+    "description": "I found of asian culture, so I desire somewhen in future to travel around Asia"
+  }
+]
